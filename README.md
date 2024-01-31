@@ -7,14 +7,14 @@ A Nextflow workflow encapsulating the computational components to take output fr
 
 ## Nextflow Processes
 
-1. **pbsv** containerized in [pbsv-docker]() using [pbsv](https://github.com/PacificBiosciences/pbsv)
-2. **k-mer-variant-phasing** containerized in [k-mer-variant-phasing-docker] using [k-mer-variant-phasing](https://github.com/mrvollger/k-mer-variant-phasing)
-3. **HiPhase** containerzied in [HiPhase-docker]() using [HiPhase](https://github.com/PacificBiosciences/HiPhase)
-4. **hifiasm** containerized in [hifiasm-docker]() using [hifiasm](https://github.com/chhylp123/hifiasm)
-5. **yak** containerized in [yak-docker]() using [yak](https://github.com/lh3/yak)
-6. **pb-CpG-tools** containerized in [pb-CpG-tools-docker]() using [pb-CpG-tools](https://github.com/PacificBiosciences/pb-CpG-tools)
-7. **pbfusion** containerized in [pbfusion-docker]() using [pbfusion](https://github.com/PacificBiosciences/pbfusion)
-8. **fiberseq-fire** containerized in [fiberseq-fire-docker]() using [fiberseq-fire](https://github.com/fiberseq/fiberseq-fire)
+1. **pbsv** containerized in [pbsv-docker](https://github.com/adeslatt/pbsv-docker) using [pbsv](https://github.com/PacificBiosciences/pbsv)
+2. **k-mer-variant-phasing** containerized in [k-mer-variant-phasing-docker](https://github.com/adeslatt/k-mer-variant-phasing-docker) using [k-mer-variant-phasing](https://github.com/mrvollger/k-mer-variant-phasing)
+3. **HiPhase** containerzied in [hiphase-docker](https://github.com/adeslatt/hiphase-docker) using [HiPhase](https://github.com/PacificBiosciences/HiPhase)
+4. **hifiasm** containerized in [hifiasm-docker](https://github.com/adeslatt/hifiasm-docker) using [hifiasm](https://github.com/chhylp123/hifiasm)
+5. **yak** containerized in [yak-docker](https://github.com/adeslatt/yak-docker) using [yak](https://github.com/lh3/yak)
+6. **pb-CpG-tools** containerized in [pb-CpG-tools-docker](https://github.com/adeslatt/pb-cpg-tools-docker) using [pb-CpG-tools](https://github.com/PacificBiosciences/pb-CpG-tools)
+7. **pbfusion** containerized in [pbfusion-docker](https://github.com/adeslatt/pbfusion-docker) using [pbfusion](https://github.com/PacificBiosciences/pbfusion)
+8. **fiberseq-fire** containerized in [fiberseq-fire-docker](https://github.com/adeslatt/fiberseq-fire-docker) using [fiberseq-fire](https://github.com/fiberseq/fiberseq-fire)
 
 
 ## Philosophy
